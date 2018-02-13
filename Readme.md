@@ -1,0 +1,1 @@
+Implementing Simple Examples of GoF Design Patterns to better learn OOP stuff
